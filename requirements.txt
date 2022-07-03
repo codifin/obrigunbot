@@ -1,0 +1,7 @@
+mc.py
+aiogram
+beautifulsoup4
+requests
+lxml
+loguru
+pillow
